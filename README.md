@@ -5,3 +5,4 @@
 3. [Repeated Squaring.](https://www.algorithmist.com/index.php/Repeated_Squaring)
 4. [Find remainder without using modulo or % operator.](https://www.geeksforgeeks.org/program-to-find-remainder-without-using-modulo-or-operator/)
 5. [Trailing Number of Zeros](https://brilliant.org/wiki/trailing-number-of-zeros/)
+6.[How to read Problem Statements.](https://codeforces.com/blog/entry/62730)
